@@ -19,4 +19,7 @@ public class Demo {
 		System.out.println("code:"+code);
 		System.out.println("balance:"+balance);*/
 	}
+	public void demo() {
+		System.out.println("niyouma");
+	}
 }
